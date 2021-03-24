@@ -1,0 +1,11 @@
+Hi 
+
+if you want to run the API in the folder named "AllNodeApp" via Visual Studio code run the code "node Server,js"
+
+
+now i have tried the display the full path where the API is running then i baven't been able to display the data 
+coming from the API to display on the Angular, i can retrieve the data but i stuck
+
+if you want to run the Angular App run this command "ng serve --proxy-config proxy.conf.json"
+
+
